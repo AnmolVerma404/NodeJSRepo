@@ -1,16 +1,16 @@
 {
-  "name": "Node",
+  "name": "node",
   "version": "1.0.0",
   "description": "",
-  "main": "10fileModuleSync.js",
+  "main": "/15asyncPattrn.js/2promiceAwait",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node 100app.js",
+    "dev": "nodemon 100app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.0.2",
     "lodash": "^4.17.21"
   },
   "devDependencies": {

@@ -15,3 +15,12 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(5000);
+
+// Module like lodash
+// const _ = require("lodash");
+
+// const item = [1, [2, [3, [4, 5]]]];
+// const newItem = _.flattenDeep(item);
+
+// console.log(newItem);
+// console.log("Hello World!!!");
